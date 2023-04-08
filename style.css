@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'SeoulNamsanM';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/SeoulNamsanM.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'SeoulNamsanM';
+    line-height: 20px;
+}
+
+body{
+    background-color: #f8f8f8;
+}
+
+header{
+    height: 40px;
+    background-color: #333;
+}
+
+main{
+    height: 600px;
+    width: 750px;
+    margin: 0 auto;
+    background-color: #f8f8f8;
+    box-shadow: 10px 10px 20px gray;
+}
+
+#top{
+    height: 35px;
+    background-color: #f0cdea;
+    margin-bottom: 25px;
+    border-radius: 0 0 10px 10px;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    line-height: 35px;
+}
+
+#container{
+    height: 410px;
+    padding: 10px;
+    /* flex(wrap)으로 section 배치*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+aside{
+    height: 110px;
+    background-color: #f8f8f8;
+    margin-bottom: 60px;
+    margin: 0 15px 60px 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: space-around;
+}
+
+section {
+    height: 45%;
+    width: 30%;
+    border-radius: 7px;
+    text-align: center;
+    display: block;
+    background-color: white;
+    justify-content: center;
+}
+
+section p {
+    padding: 10px;
+    text-align: center;
+    position: relative;
+}
+
+#team{
+    width: 470px;
+    height: 100%;
+    background-color: #31999c;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 20px;
+    text-align: center;
+}
+
+#hi{
+    width: 230px;
+    height: 100%;
+    background-color: pink;
+    color: black;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 20px;
+    text-align: center;
+}
+
+#alert {
+    display: none;
+    text-align: center;
+    padding-top: 300px;
+}
+
+footer{
+    height: 200px;
+    background-color: white;
+    text-align: center;
+    color: rgb(170, 170, 170);
+    padding: 50px;
+}
+
+@media(max-width: 800px) {
+    #main-container {
+        display: none;
+    }
+    
+    #alert {
+        display: block;
+    }
+}
+
+
