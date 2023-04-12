@@ -2,10 +2,9 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=멋쟁이사자처럼%201조%0A&fontSize=56&animation=fadeIn&fontAlignY=38&desc=사랑은%20남과%20나눌%20때%20커진다&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=멋쟁이사자처럼%201조%0A&fontSize=55&animation=fadeIn&fontAlignY=38&desc=사랑은%20남과%20나눌%20때%20커진다&descAlignY=51&descAlign=62)
 
 # 1조에요~
-
 
 <h2 align="center">우리 조를 소개합니다~</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center">
