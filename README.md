@@ -8,6 +8,12 @@
 
 <h2 align="center">우리 조를 소개합니다~</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center">
+<a href="https://github.com/wooseok123">
+    <img src="https://github.com/wooseok123.png" width="100">
+</a>
+<a href="https://github.com/jongmee">
+    <img src="https://github.com/jongmee.png" width="100">
+</a>
 <a href="https://github.com/koniiing">
     <img src="https://github.com/koniiing.png" width="100">
 </a>
