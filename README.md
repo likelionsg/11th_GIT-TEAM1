@@ -8,7 +8,6 @@
 
 
 
-------3------
 
 <h2 align="center">우리 조를 소개합니다~</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center">
