@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=멋쟁이사자처럼%201조%0A&fontSize=60&animation=fadeIn&fontAlignY=38&desc=사랑은%20남과%20나눌%20때%20커진다&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=멋쟁이사자처럼%201조%0A&fontSize=55&animation=fadeIn&fontAlignY=38&desc=사랑은%20남과%20나눌%20때%20커진다&descAlignY=51&descAlign=62)
 
 ------2------
 
@@ -47,8 +47,6 @@
 =white"/>
 
 ------5------
-
-
 
 <div align="center">
 <img src="https://img.shields.io/badge/한우석-FF3300?style=for-the-badge"> <img src="https://img.shields.io/badge/최승호-FF6633?style=for-the-badge"> <img src="https://img.shields.io/badge/정고은-FF99FF?style=for-the-badge"> <img src="https://img.shields.io/badge/윤승호-FFFF00?style=for-the-badge"> <img src="https://img.shields.io/badge/오은택-00CC00?style=for-the-badge"> <img src="https://img.shields.io/badge/문소정-3399FF?style=for-the-badge"> <img src="https://img.shields.io/badge/김유이-0033CC?style=for-the-badge"> <img src="https://img.shields.io/badge/이종미-9966FF?style=for-the-badge"> <img src="https://img.shields.io/badge/이상연-660099?style=for-the-badge">
