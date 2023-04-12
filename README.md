@@ -11,5 +11,5 @@
 ------5------
 
 ------6------
-
+<img src="team1.png" alt="background-image">
 ------7------
