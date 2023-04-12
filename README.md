@@ -25,6 +25,7 @@
 
 
 ------7------
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SEXY%20TEAM1&fontSize=90)
+ 
+ ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&text=SEXY%20TEAM1&fontSize=90&reversal=true)
 
 </div>
