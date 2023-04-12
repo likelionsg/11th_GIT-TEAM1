@@ -1,7 +1,7 @@
 # 11th_GIT-TEAM1
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=멋쟁이사자처럼%201조%0A&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%0A사랑은%20남과%20나눌%20때%20커진다&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=멋쟁이사자처럼%201조%0A&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%0A사랑은%20남과%20나눌%20때%20커진다&descAlignY=51&descAlign=62)
 
 ------2------
 # 1조에요~
